@@ -1,5 +1,2 @@
-var = "Exemplary Student"
-print(len(var))
-print(var[1],(var[-1]))
-print(var[:4])
-print(var[10:])
+num = [1, 2, 3, 2, 4, 1]
+print(set(num))
